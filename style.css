@@ -1,0 +1,26 @@
+body{
+    background-color: #efefef;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    margin: 30px;
+}
+
+h1,h2,h3{
+    color : rgb(165, 7, 94);
+}
+
+
+nav a{
+    color: rgb(224, 24, 101);
+    font-size: 1.1em;
+    padding: 5px;
+}
+
+.movie img{
+    background-color: rgb(179 179 179);
+    padding: 30px;
+    
+}
